@@ -1,2 +1,5 @@
-# python-exe-1772571687371
-Python to EXE - KivyAppLauncher
+# KivyAppLauncher
+
+Python app compiled to Windows EXE via GitHub Actions.
+
+Le build démarre automatiquement via GitHub Actions.
